@@ -54,6 +54,8 @@ class Owner
     self.dogs.each do |dog|
       dog.mood = "nervous"
     end 
+    self.cats = []
+    self.dogs = []
   end 
   
 end
