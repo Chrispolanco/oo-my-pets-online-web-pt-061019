@@ -3,7 +3,7 @@ class Owner
   attr_reader :name 
   @@all = []
   
-  def initialize(species)
+  def initialize(species, name)
     @species =species 
   end 
   
