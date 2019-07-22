@@ -9,7 +9,8 @@ class Owner
   end 
   
   def say_species
-    "#"
+    "#{@species}"
+  end 
   
   def self.all 
     @@all
