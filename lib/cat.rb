@@ -4,7 +4,7 @@ class Cat
   
   @@all = []
 
-  def initialize(name, owner, mood="nervous")
+  def initialize(name, owner, mood="nervous", pets )
     @name = name 
     @owner = owner
     @mood = mood
