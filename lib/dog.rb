@@ -16,5 +16,7 @@ class Dog
   end  
   
   def buy_cat 
+    
+  end 
   
 end
