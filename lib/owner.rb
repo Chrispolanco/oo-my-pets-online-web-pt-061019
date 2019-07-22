@@ -35,4 +35,8 @@ class Owner
     Dog.new(name, owner = self)
   end  
   
+  def walk_dogs(name)
+    
+  end 
+  
 end
