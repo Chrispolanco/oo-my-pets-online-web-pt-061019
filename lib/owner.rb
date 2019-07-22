@@ -6,10 +6,6 @@ class Owner
     @species =species 
   end 
   
-  def self.species
-    self = "Human"
-  end 
-  
   def self.all 
     @@all
   end 
