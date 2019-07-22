@@ -15,4 +15,6 @@ class Dog
     @@all 
   end  
   
+  def buy_cat 
+  
 end
