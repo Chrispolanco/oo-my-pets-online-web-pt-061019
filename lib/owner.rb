@@ -4,7 +4,6 @@ class Owner
   
   def initialize(species)
     @species =species 
-    @@all = []
   end 
   
   def self.species
