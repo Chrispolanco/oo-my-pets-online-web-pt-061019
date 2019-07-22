@@ -8,6 +8,9 @@ class Owner
     @name = name 
   end 
   
+  def say_species
+    "#"
+  
   def self.all 
     @@all
   end 
